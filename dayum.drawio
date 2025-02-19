@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0 (Edition ms_store)" version="26.0.14">
   <diagram name="Page-1" id="Pzu5ecIADjZnSWY_yWlk">
-    <mxGraphModel>
+    <mxGraphModel dx="1218" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BMl7Ls-aFbWJZu94gFlt-3" value="&lt;div&gt;User&lt;/div&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="40" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="BMl7Ls-aFbWJZu94gFlt-8" value="ADMIN" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="40" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="BMl7Ls-aFbWJZu94gFlt-13" value="Point-Based Lending System" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="620" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="BMl7Ls-aFbWJZu94gFlt-15" value="Register/Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMl7Ls-aFbWJZu94gFlt-16" value="Request to rent/buy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMl7Ls-aFbWJZu94gFlt-17" value="Pay&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMl7Ls-aFbWJZu94gFlt-18" value="Browse available items" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMl7Ls-aFbWJZu94gFlt-19" value="&lt;div&gt;Lender&lt;/div&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="40" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="BMl7Ls-aFbWJZu94gFlt-21" value="&lt;div&gt;Receive&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
